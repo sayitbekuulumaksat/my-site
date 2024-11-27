@@ -1,0 +1,29 @@
+
+/* section-feature */
+.feature {
+    margin-top: 120px;
+  }
+  
+  .feature__content {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 20px;
+  }
+  .feature__box {
+    width: 325px;
+    text-align: center;
+    margin: 0 20px;
+  }
+  .feature__title {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: rgba(33, 43, 49, 1);
+  }
+  .feature__description {
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(114, 120, 125, 1);
+  }
+  
+  

@@ -1,0 +1,39 @@
+/* section-constcontrol */
+.constcontrol {
+  margin-top: 75px;
+}
+.constcontrol__col {
+  /* column-count: 2; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.constcontrol__topic {
+  font-size: 32px;
+  font-weight: 400;
+  color: rgba(33, 43, 49, 1);
+}
+.constcontrol__explanations {
+  text-align: center;
+}
+.constcontrol__description {
+  font-weight: 400;
+  font-style: 20px;
+  width: 780px;
+  line-height: 32px;
+  color: rgba(114, 120, 125, 1);
+  margin: 0 auto;
+}
+.constcontrol__list--description {
+  width: 550px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.constcontrol__subtopic {
+  font-weight: 500;
+  font-size: 18px;
+}
+.constcontrol__list {
+  text-align: left;
+}

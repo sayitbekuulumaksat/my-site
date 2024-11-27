@@ -1,0 +1,16 @@
+.logistics__content {
+  background-image: url(../img/logistics/bg_img.png);
+  text-align: center;
+  height: 466px;
+  border-radius: 6px;
+}
+.logistics__title {
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 64px;
+  text-align: center;
+  padding-top: 117px;
+}
+.logistics__btns {
+  margin-top: 54px;
+}

@@ -1,0 +1,20 @@
+
+.partners{
+    margin-top: 71px;
+    
+}.partners__list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 56px;
+  margin-bottom: 56px;
+}
+
+.partners__img {
+  width: 180px;
+  /* text-align: center; */
+  margin: 0 auto;
+}
+.partners__hr {
+  color: #eef2f3;
+}

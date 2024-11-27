@@ -1,0 +1,21 @@
+
+/* section-construction */
+.construction {
+    margin-top: 30px;
+  }
+  .construction__part {
+    text-align: center;
+  }
+  .construction__title {
+    font-weight: 400;
+    font-size: 32px;
+    color: rgba(33, 43, 49, 1);
+  }
+  .construction__description {
+    /* white-space: pre-wrap; */
+    width: 1015px;
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(114, 120, 125, 1);
+    margin-bottom: 50px;
+  }
